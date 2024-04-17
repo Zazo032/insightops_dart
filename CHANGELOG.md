@@ -1,6 +1,6 @@
 ## 0.3.0
-- :tv: Update minimum Dart version to `3.2.0`
-- :tv: Updated plugin dependencies
+- :tv: Update minimum Dart version to `3.0.0`
+- :tv: Update minimum `http` version to `1.0.0`
 
 ## 0.2.0
 - :cop: Migrate to nullsafety
